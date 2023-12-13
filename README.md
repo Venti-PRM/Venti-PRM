@@ -1,4 +1,4 @@
-### Hi there 👋
+### 我是谁
 
 <!--
 **Venti-PRM/Venti-PRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* **蒙德风神巴巴托斯温迪**
+* 蒙德第一，第二王国神明
+* 曾任提瓦特联盟共和国蒙德共和国政府副总理
+* 曾任蒙德人民共和国临时政府主席
+* 现退出政坛，以摸鱼摆烂卖艺为生
